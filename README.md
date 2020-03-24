@@ -1,2 +1,7 @@
 # hello-world
-My first code 
+
+Hi Humans 
+
+This my fisrt experience with GitHub. 
+
+
